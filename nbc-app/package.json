@@ -1,0 +1,20 @@
+{
+  "name": "nbc",
+  "private": true,
+  "type": "module",
+  "description": "NBC: preverjeni popusti iz spletnih trgovin z obvestili na telefon.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "search": "node crawler/crawl.mjs",
+    "search:dry": "node crawler/crawl.mjs --dry",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "web-push": "3.6.7"
+  },
+  "devDependencies": {
+    "wrangler": "4.156.1"
+  }
+}

@@ -1,0 +1,326 @@
+{
+ "updatedAt": "2026-11-02T08:59:18Z",
+ "offers": [
+  {
+   "availability": "in_stock",
+   "brand": "Iskra",
+   "category": "Ogrevanje in hlajenje",
+   "checkedAt": "2026-11-02T07:58:58Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran prikazuje ceno 23,99 EUR, primerjalno ceno 35,99 EUR, zalogo 3 artiklov in dostavo na dom od 2,99 EUR.",
+   "firstSeenAt": "2026-11-02T07:58:58Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T07:58:58Z",
+     "price": 23.99
+    }
+   ],
+   "image": null,
+   "name": "Iskra PTC-905B električni kalorifer",
+   "price": 23.99,
+   "referenceLabel": "Najnižja cena v zadnjih 30 dneh pred znižanjem",
+   "referencePrice": 35.99,
+   "shipping": 2.99,
+   "shippingCountries": [
+    "SI"
+   ],
+   "sourceHost": "mimovrste.com",
+   "store": "Mimovrste",
+   "url": "https://www.mimovrste.com/kaloriferji/iskra-elektricni-kalorifer-ptc-905b",
+   "variant": "PTC-905B · 1500 W · 1 kos",
+   "id": "dff30cf23b6d1d50",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "Philips",
+   "category": "Elektronika",
+   "checkedAt": "2026-11-02T08:40:15Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran kaže akcijsko ceno 24,49 €, redno 34,99 € (−30 %), velja 26. 8.–31. 12. 2026 oz. do prodaje zalog; »Na zalogi«. Opomba: cena velja za B2C profil. Strošek dostave ni naveden.",
+   "firstSeenAt": "2026-11-02T08:40:15Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:40:15Z",
+     "price": 24.49
+    }
+   ],
+   "id": "ef32a98ddd53742f",
+   "image": null,
+   "name": "Philips TAT2139BK brezžične slušalke",
+   "price": 24.49,
+   "referenceLabel": "Redna cena trgovca",
+   "referencePrice": 34.99,
+   "shipping": null,
+   "shippingCountries": null,
+   "sourceHost": "merkur.si",
+   "store": "Merkur",
+   "url": "https://www.merkur.si/slusalke-philips-tat2139bk/",
+   "variant": "TAT2139BK · črne · 1 kos",
+   "watchMatch": null
+  },
+  {
+   "availability": "unknown",
+   "brand": "LEGO",
+   "category": "Otroci in igrače",
+   "checkedAt": "2026-11-02T08:40:15Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran kaže 59,99 €, NC30 74,99 €, »spletna akcija« −20 % (1. 10. 2026–31. 3. 2027). Zaloga ni prikazana, dostava 3–8 delovnih dni, strošek ni naveden.",
+   "firstSeenAt": "2026-11-02T08:40:15Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:40:15Z",
+     "price": 59.99
+    }
+   ],
+   "id": "bf527efe91eb5998",
+   "image": null,
+   "name": "LEGO Duplo 10451 Dinozavri na kolesih 3v1",
+   "price": 59.99,
+   "referenceLabel": "Najnižja cena v zadnjih 30 dneh pred znižanjem",
+   "referencePrice": 74.99,
+   "shipping": null,
+   "shippingCountries": null,
+   "sourceHost": "babycenter.si",
+   "store": "Babycenter",
+   "url": "https://www.babycenter.si/lego-duplo-10451-dinozavri-na-kolesih-3v1-1258863.html",
+   "variant": "Set 10451 · 1 kos",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "Erija",
+   "category": "Rože in rastline",
+   "checkedAt": "2026-11-02T07:58:58Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Produktna stran kaže 44,50 EUR in prečrtano ceno 52,00 EUR ter omogoča dodajanje v košarico. Podatki o brezplačni dostavi in ceniku so neskladni; strošek ni potrjen.",
+   "firstSeenAt": "2026-11-02T07:58:58Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T07:58:58Z",
+     "price": 44.5
+    }
+   ],
+   "image": null,
+   "name": "Šopek v stekleni posodi",
+   "price": 44.5,
+   "referenceLabel": "Prečrtana cena trgovca",
+   "referencePrice": 52,
+   "shipping": null,
+   "shippingCountries": [
+    "SI"
+   ],
+   "sourceHost": "erija.si",
+   "store": "Cvetličarna Erija",
+   "url": "https://erija.si/portfolio/priloznosti/rojstni-dan/sopek-v-stekleni-posodi/",
+   "variant": "Šifra 1902 · 1 šopek · Dostava Ljubljana in okolica; drugje po dogovoru",
+   "id": "3a37d8bcab6193b6",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "Keen",
+   "category": "Obutev",
+   "checkedAt": "2026-11-02T08:40:15Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran kaže 22,49 € in prečrtano 44,99 €, NC30 22,49 €, oznako »Na voljo takoj«, dostavo 3–8 delovnih dni; velja do odprodaje zalog. Strošek dostave ni naveden.",
+   "firstSeenAt": "2026-11-02T08:40:15Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:40:15Z",
+     "price": 22.49
+    }
+   ],
+   "id": "b6ae75bc6bec68c2",
+   "image": null,
+   "name": "Keen Seacamp II CNX otroški sandal",
+   "price": 22.49,
+   "referenceLabel": "Prečrtana cena trgovca",
+   "referencePrice": 44.99,
+   "shipping": null,
+   "shippingCountries": null,
+   "sourceHost": "babycenter.si",
+   "store": "Babycenter",
+   "url": "https://www.babycenter.si/keen-sandal-1022944-seacamp-ii-cnx-f-blue-depthsgargoyle-20-1100300.html",
+   "variant": "1022944 · blue depths/gargoyle · velikost 20 · 1 par",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "Acer",
+   "category": "Računalništvo",
+   "checkedAt": "2026-11-02T08:00:46Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Produktna stran kaže 499,99 EUR, ceno pred znižanjem 535,29 EUR, takojšnjo razpoložljivost v treh trgovinah in dostavo na dom od 2,99 EUR.",
+   "firstSeenAt": "2026-11-02T08:00:46Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:00:46Z",
+     "price": 499.99
+    }
+   ],
+   "image": null,
+   "name": "Acer Aspire Lite AL15-44P-R20J",
+   "price": 499.99,
+   "referenceLabel": "Najnižja cena v zadnjih 30 dneh pred znižanjem",
+   "referencePrice": 535.29,
+   "shipping": 2.99,
+   "shippingCountries": [
+    "SI"
+   ],
+   "sourceHost": "mimovrste.com",
+   "store": "Mimovrste",
+   "url": "https://www.mimovrste.com/prenosniki/acer-aspire-lite-prenosnik-amd-ryzen-5-7430u-16gb-ssd1tb-freedos-nxdk1ex002-al15-44p-r20j",
+   "variant": "NX.DK1EX.002 · Ryzen 5 7430U · 16 GB · 1 TB · FreeDOS",
+   "id": "368745fbc572b135",
+   "watchMatch": null
+  },
+  {
+   "availability": "unknown",
+   "brand": "Amica",
+   "category": "Bela tehnika",
+   "checkedAt": "2026-11-02T08:40:15Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran kaže akcijsko ceno 503,99 €, redno 719,99 € (prihranek 216 €), velja 16. 10.–31. 12. 2026 oz. do prodaje zalog. Zaloga ni potrjena, prevzem na 20 mestih; strošek dostave ni naveden.",
+   "firstSeenAt": "2026-11-02T08:40:15Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:40:15Z",
+     "price": 503.99
+    }
+   ],
+   "id": "40801dd8866a38ee",
+   "image": null,
+   "name": "Amica FK2965.3RAA hladilnik z zamrzovalnikom",
+   "price": 503.99,
+   "referenceLabel": "Redna cena trgovca",
+   "referencePrice": 719.99,
+   "shipping": null,
+   "shippingCountries": null,
+   "sourceHost": "merkur.si",
+   "store": "Merkur",
+   "url": "https://www.merkur.si/hladilnik-in-zamrzovalnik-amica-fk2965-3raa/",
+   "variant": "FK2965.3RAA · 181 L + 63 L · 181×55×62 cm",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "Iskra",
+   "category": "Ogrevanje in hlajenje",
+   "checkedAt": "2026-11-02T07:58:58Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran prikazuje 13,99 EUR, najnižjo ceno pred znižanjem 21,99 EUR, zalogo 2 artiklov in dostavo od 2,99 EUR.",
+   "firstSeenAt": "2026-11-02T07:58:58Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T07:58:58Z",
+     "price": 13.99
+    }
+   ],
+   "image": null,
+   "name": "Iskra FH-202 električni kalorifer",
+   "price": 13.99,
+   "referenceLabel": "Najnižja cena v zadnjih 30 dneh pred znižanjem",
+   "referencePrice": 21.99,
+   "shipping": 2.99,
+   "shippingCountries": [
+    "SI"
+   ],
+   "sourceHost": "mimovrste.com",
+   "store": "Mimovrste",
+   "url": "https://www.mimovrste.com/kaloriferji-termoventilatorji/iskra-fh-202-elektricni-kalorifer",
+   "variant": "FH-202 · Bela · 2000 W · 1 kos",
+   "id": "b939f29c99b6a5ce",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "LEGO",
+   "category": "Otroci in igrače",
+   "checkedAt": "2026-11-02T08:40:15Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran kaže 75,99 €, NC30 94,99 €, »spletna akcija« −20 % (1. 10. 2026–31. 3. 2027), »na voljo takoj«, dostava 3–8 delovnih dni. Brezplačna dostava nad 60 € (z opombo).",
+   "firstSeenAt": "2026-11-02T08:40:15Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:40:15Z",
+     "price": 75.99
+    }
+   ],
+   "id": "2d44b321e8fcfd23",
+   "image": null,
+   "name": "LEGO Friends 42671 Rastlinska kavarna in cvetličarna",
+   "price": 75.99,
+   "referenceLabel": "Najnižja cena v zadnjih 30 dneh pred znižanjem",
+   "referencePrice": 94.99,
+   "shipping": null,
+   "shippingCountries": null,
+   "sourceHost": "babycenter.si",
+   "store": "Babycenter",
+   "url": "https://www.babycenter.si/lego-friends-42671-rastlinska-kavarna-in-cvetlicarna-1258876.html",
+   "variant": "Set 42671 · 1138 kosov",
+   "watchMatch": null
+  },
+  {
+   "availability": "in_stock",
+   "brand": "LEGO",
+   "category": "Otroci in igrače",
+   "checkedAt": "2026-11-02T08:40:15Z",
+   "country": "SI",
+   "currency": "EUR",
+   "evidence": "Stran kaže 103,99 €, NC30 129,99 €, oznaki »20 %« in »spletna akcija« (velja 1. 10. 2026–31. 3. 2027), »na voljo takoj«. Brezplačna dostava nad 60 € (z opombo, pogoji niso prikazani).",
+   "firstSeenAt": "2026-11-02T08:40:15Z",
+   "gtin": null,
+   "history": [
+    {
+     "at": "2026-11-02T08:40:15Z",
+     "price": 103.99
+    }
+   ],
+   "id": "efef5b9d0dfe442b",
+   "image": null,
+   "name": "LEGO Icons 10361 Praznični ekspresni vlak",
+   "price": 103.99,
+   "referenceLabel": "Najnižja cena v zadnjih 30 dneh pred znižanjem",
+   "referencePrice": 129.99,
+   "shipping": null,
+   "shippingCountries": null,
+   "sourceHost": "babycenter.si",
+   "store": "Babycenter",
+   "url": "https://www.babycenter.si/lego-icons-10361-praznicni-ekspresni-vlak-1341354.html",
+   "variant": "Set 10361 · 1 kos",
+   "watchMatch": null
+  }
+ ],
+ "runs": [
+  {
+   "id": "uvoz",
+   "kind": "import",
+   "status": "done",
+   "startedAt": "2026-11-02T08:59:18Z",
+   "finishedAt": "2026-11-02T08:59:18Z",
+   "added": 10,
+   "rechecked": 0,
+   "priceDrops": 0,
+   "summary": "Uvoz iz prve različice NBC: 10 preverjenih ponudb."
+  }
+ ]
+}
